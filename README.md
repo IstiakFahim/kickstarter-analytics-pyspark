@@ -1,10 +1,10 @@
 # Kickstarter Project Success Prediction
 
-This project aims to predict the success or failure of **Kickstarter crowdfunding projects** using machine learning. It leverages **PySpark** for large-scale data processing and applies two machine learning models: **Logistic Regression** and **Random Forest**.
+This project aims to predict the success or failure of **Kickstarter crowdfunding projects** using machine learning. It leverages **PySpark**, a powerful distributed computing framework, for large-scale data processing and applies two machine learning models: **Logistic Regression** and **Random Forest**.
 
 ## Project Overview
 
-Crowdfunding platforms like **Kickstarter** allow creators to bring their ideas to life by securing funding from backers. Predicting the success or failure of a project can offer valuable insights to both creators and backers. This project explores how machine learning can help make these predictions based on a variety of campaign features.
+Crowdfunding platforms like **Kickstarter** allow creators to bring their ideas to life by securing funding from backers. Predicting the success or failure of these projects can offer valuable insights to both creators and backers. This project explores how machine learning, specifically using **PySpark**, can help make these predictions based on a variety of campaign features.
 
 ## Dataset
 
